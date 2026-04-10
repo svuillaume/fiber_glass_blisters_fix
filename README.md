@@ -1,261 +1,217 @@
-# Fiberglass Hull Blister Repair & Paint Schedule
+# Boat Bottom — Blister Repair & Antifouling Schedule
 
-**Target Launch:** April 25, 2026 | **Location:** Toronto | **Hull Type:** Exposed-glass blisters with Interlux 2000E protection
-
-## Contents
-
-- [Overview](#overview)
-- [Quick Reference Timeline](#quick-reference-timeline)
-- [Important Notes](#important-notes)
-- [Materials & Prerequisites](#materials--prerequisites)
-- [Detailed Schedule](#detailed-schedule)
-- [Thumb-Print Test Guide](#thumb-print-test-guide)
-- [Contingency & Troubleshooting](#contingency--troubleshooting)
-- [References](#references)
+**Launch date:** Saturday April 25, 2026
+**Yard location:** Toronto, ON
+**Boat:** 30ft × 10.3ft beam sailboat
 
 ---
 
-## Overview
+## Scope of Work
 
-This guide outlines a complete blister repair and bottom-paint system for your boat, combining West System 105/205 epoxy for structural repair with Interlux 2000E for barrier protection and Aquaguard for final UV sealing. The schedule is designed around your availability (away April 14–16) and typical spring temperatures in Toronto (5–15°C).
+| Area | 105/205 | Watertite | Interprotect 2000E | Antifouling |
+|---|---|---|---|---|
+| 8 hull blisters (1" wide × 0.5" deep) | Yes — seal coat | Yes — fill | Yes — spot only | Yes (whole hull) |
+| 2 tiny rudder holes | Yes — seal coat | Yes — fill | Yes — full rudder | Yes (rudder) |
+| Rest of hull bottom | No | No | **No** | Yes |
 
-**Repair approach:** Focus on sealed, protected blisters rather than full sanding/stripping. This minimizes labor while maximizing longevity.
-
----
-
-## Quick Reference Timeline
-
-| Day | Date | Task | Duration | Key Constraint |
-|-----|------|------|----------|---|
-| 1 | ~Apr 9 | Epoxy seal (105/205) | 2–4 hrs | 12–24 hr cure |
-| 2 | ~Apr 10 | Interlux coat #1 + Watertite fill | 4–9 hrs | Thumb-Print Test |
-| 3 | ~Apr 11 | Interlux coat #2 | 3–6 hrs | Thumb-Print Test |
-| 4 | ~Apr 12 | Interlux coat #3 | 3–5 hrs | **Do not start coat #4 before leaving** |
-| 5 | ~Apr 13 | *(Optional)* Interlux coat #4 | 3–5 hrs | **Last day before away period** |
-| — | Apr 14–16 | Away (no work) | — | Coats harden undisturbed |
-| 6+ | Apr 17–24 | Aquaguard coats #1–2 | 2–4 hrs | 12–24 hr cure before launch |
+> Interprotect is spot repair only — rudder + blister areas.
+> Antifouling covers the entire hull bottom + rudder.
 
 ---
 
-## Important Notes
+## Products & Quantities
 
-⚠️ **Temperature Sensitivity**
-- All timings assume **≥5°C substrate temperature**
-- Warmer days (10–15°C) **shorten** overcoat windows; cooler days (5°C) **lengthen** them
-- Use the **Thumb-Print Test** instead of a clock—it adapts to real conditions
+| Step | Product on hand | Area covered | Needed | Have | Status |
+|---|---|---|---|---|---|
+| 1 | West System 105/205 — mini pack | 10 cavities — seal coat | ~10ml | mini pack | Sufficient ✓ |
+| 2 | Interlux VC Watertite — 500ml | 10 cavities | ~75ml | 500ml | Way more than enough |
+| 3 | Interprotect 2000EKIT-QT (grey) | Rudder + 8 blister spots (~13 sq ft) | ~0.5 qt | 1 qt | Sufficient — ~half left over |
+| 4 | Interlux Aquaguard — 1 gallon | Full hull + rudder (~165 sq ft) | ~2.2 qts | 1 gallon | **Tight — apply efficiently** |
 
-🚫 **Away Period Critical**
-- **You are away April 14–16** → do not start a new coat on April 13 if you can't monitor it
-- Coats can sit and harden for weeks safely if left untouched
-- You'll resume work April 17 and have until April 24 to apply Aquaguard
+### Product Notes
 
-✅ **Minimum Viable System**
-- You can launch with 3–4 coats of Interlux 2000E + Aquaguard (2 coats minimum)
-- Skipping the optional Day 5 fourth coat is acceptable if temps are marginal
+**West System 105/205 — mini pack (on hand)**
+- Mini pack contains enough resin + hardener for this job with some to spare
+- Mix ratio: 5 parts 105 resin : 1 part 205 hardener by volume (use the mini pumps — 1 pump each)
+- Pot life at 12°C: ~20 min. Mix only what you can apply in 10 min.
+- ~1–2 pump shots covers all 10 cavities
 
----
+**Interlux VC Watertite — 500ml**
+- Need ~75ml for 10 cavities (8 blisters + 2 rudder holes)
+- 500ml = 6× what you need — plenty for any mixing waste and mistakes
+- Mix small batches. Pot life at 18°C: ~30–45 min.
 
-## Materials & Prerequisites
+**Interprotect 2000EKIT-QT (grey)**
+- Kit contains Part A (2000E) + Part B (2001E) — mix per label ratio before use
+- Need ~0.5 quart for all 4 coats on rudder + blister spots
+- One quart kit is sufficient with ~half remaining for future touch-up
 
-### Materials Required
-
-| Material | Purpose | Quantity (estimate) | Supplier |
-|----------|---------|---|---|
-| West System 105/205 | Epoxy resin + fast hardener | 1–2 quarts | West System / Ardec |
-| Interlux 2000E | Barrier coat (main paint) | 4–6 quarts | Marine paint supplier |
-| Watertite | Epoxy filler (blister holes) | 1–2 quarts | Specialty Coatings |
-| Aquaguard | UV topcoat | 2–3 quarts | Interlux |
-
-### Tools & Supplies
-
-- 80–120 grit sandpaper (multiple sheets)
-- Brushes or rollers (2–3" width minimum)
-- Mixing containers and sticks
-- Sponge or cloth for amine blush removal
-- Water and mild soap for cleaning
-- Safety gear: gloves, mask, eye protection
-- Thermometer (to monitor substrate temp)
-- Ventilation (fan or open garage door)
-
-### Pre-Work Checklist
-
-- [ ] Check 5-day weather forecast (aim for ≥5°C lows)
-- [ ] Prepare work area (clean, dry, ventilated)
-- [ ] Inspect blisters and mark all holes/damaged areas
-- [ ] Gather all materials and tools
-- [ ] Review Thumb-Print Test technique (see below)
+**Interlux Aquaguard — 1 gallon (freshwater antifouling)**
+- Correct product for Lake Ontario / Great Lakes freshwater use
+- Coverage: ~300–400 sq ft/gallon
+- 2 coats × ~165 sq ft = ~330 sq ft total needed
+- At 300 sq ft/gal: need 1.1 gallons → **slightly short**
+- At 400 sq ft/gal: need 0.83 gallons → fine
+- **Apply with a 4" foam roller. Do not overwork or re-roll.** Thin, even coats stretch coverage.
+- Being water-based, Aquaguard is more humidity-tolerant than solvent antifouling — April 18 at 82% humidity is fine.
 
 ---
 
-## Detailed Schedule
+## Application Requirements
 
-### Day 1 – Epoxy Seal of Exposed Glass (105/205)
-
-**Duration:** 2–4 hours | **Cure time:** 12–24 hours
-
-**Steps:**
-1. Clean and dry all blister "lakes" and rudder-hole areas
-2. Remove loose gelcoat, dust, and debris
-3. Mix West System **105/205 epoxy** (1:5 resin-to-hardener ratio by volume)
-4. Apply into exposed glass areas with brush or putty knife
-5. *Do not apply full-hull coat—focus only on damaged zones*
-6. Allow to harden overnight; by Day 2 it should be sandable
-
-**Quality check:** Epoxy should be fully cured (not sticky) before moving to Day 2.
+| Product | Min Temp | Max Humidity | Rain-free after | Notes |
+|---|---|---|---|---|
+| West System 105/205 | 10°C (ideally 15°C+) | < 75% | 12–24 hrs | Surface must be 3°C above dew point. Wash amine blush with water if white film forms |
+| Interlux Watertite | 7°C (ideally 15°C+) | < 85% | 16 hrs cure before sanding | Slightly overfill — shrinks ~5–10% on cure |
+| Interprotect 2000E | 10°C air + surface | < 85% | 2 hrs per coat | Recoat window: 2 hrs min — 72 hrs max. Miss it and you must sand |
+| Antifouling | 10°C | < 90% | 2–4 hrs | Apply last coat within 48 hrs of launch for best activation |
 
 ---
 
-### Day 2 – First Coat of Interlux 2000E + Watertite Fill (same day, two phases)
+## Schedule Overview
 
-**Duration:** 4–9 hours total | **Cure time:** 4–12 hours between phases
-
-#### Phase A: Interlux 2000E Coat #1
-
-1. Lightly sand 105/205 epoxy with 80–120 grit paper
-2. Clean with water and mild soap; remove amine blush (white residue)
-3. Prep entire bottom area: light sand and wipe
-4. Apply **first coat of Interlux 2000E** over repaired and surrounding areas
-5. **Time:** 3–6 hours (depending on hull size and ventilation)
-6. **Overcoat window:** ≈4–9 hours at 5–10°C *(use Thumb-Print Test)*
-
-#### Phase B: Watertite Fill (same day, while 2000E is tacky)
-
-1. While first 2000E coat is still **tacky** (passes Thumb-Print Test):
-2. Mix and apply **Watertite epoxy paste** into all blister holes and rudder holes
-3. Feather smoothly into the 2000E layer
-4. **Time:** 1–3 hours
-5. **Cure time:** 4–12 hours before sanding for next coat
+```
+Apr 13          →  Blister repair: 105/205 + Watertite
+Apr 14–16       →  Away (work trip) — filler curing
+Apr 17 (8–11am) →  Sand filler + Interprotect coats 1 & 2
+Apr 17 (4–7pm)  →  Interprotect coats 3 & 4
+Apr 18 (morning)→  Antifouling coats 1 & 2
+Apr 25          →  Launch
+```
 
 ---
 
-### Day 3 – Second Coat of Interlux 2000E
+## APRIL 13 — Blister Repair
+**Forecast: 12°C morning → 18°C afternoon | 89% humidity | Patchy rain possible**
+**Work early morning — beat the rain and humidity rise**
 
-**Duration:** 3–6 hours | **Cure time:** 4–9 hours
-
-**Steps:**
-1. Lightly sand Watertite and any high spots with 80–120 grit
-2. Wipe clean with damp cloth
-3. Apply **second coat of Interlux 2000E** over entire area (including Watertite repairs)
-4. Check Thumb-Print Test for overcoat window to Day 4 coat
-5. **Overcoat window:** ≈4–9 hours at 5–10°C
-
----
-
-### Day 4 – Third Coat of Interlux 2000E
-
-**Duration:** 3–5 hours | **Cure time:** Leave to harden undisturbed
-
-**Steps:**
-1. Once second coat is tacky (Thumb-Print Test), apply **third coat**
-2. Build barrier thickness and fair the surface
-3. **Do NOT start a fourth coat on Day 4** if you're leaving on April 14
-4. Let this coat harden instead; it will cure fully while you're away
+| Time | Task | Wait |
+|---|---|---|
+| 7:30am | Inspect all 8 hull blisters + 2 rudder holes. Grind open any not fully open. Wipe all cavities with acetone. Confirm bone dry. | 30 min |
+| 8:00am | Mix West System 105/205 — **one small batch only** (10 cavities, ~10ml needed, pot life ~20 min at 12°C). Brush thin seal coat into each blister and rudder hole. Takes ~10 min. Work leeward side (wind 35 km/h). | — |
+| 8:15am | Application complete — all 10 cavities done. **Wait for green stage.** At 12°C: 3.5–4 hours. | **3.5–4 hrs** |
+| 12:00pm | Check 105/205 — press with knuckle. Firm, not liquid, slightly tacky = ready. White waxy film = amine blush → wash with water + scotch-brite, dry before next step. | — |
+| 12:00–12:20pm | Mix Watertite — small batch (~75ml from the 500ml kit). Pack into all 10 cavities — slightly overfill. Tool smooth with putty knife. Takes ~15 min total. | — |
+| 12:20pm | **Done. Leave to cure.** Do not touch or sand. | Min 16 hrs |
+| Apr 14 | Leave for work trip. Watertite cures for 4 days — rock hard by April 17. | 4 days |
 
 ---
 
-### Day 5 (Optional) – Fourth Coat of Interlux 2000E
+## APRIL 17 — Barrier Coat (Two Windows)
+**Forecast: 19°C sunny | 67% humidity | 21 km/h wind — best day of the forecast**
 
-**Duration:** 3–5 hours | **Only if:**
-- You're still on site before leaving April 14
-- Temperatures are ≥10°C
-- Third coat is still within overcoat window
+> **Much easier than a full hull job** — each Interprotect coat covers only the rudder + 8 blister spots (~13 sq ft). Each coat takes ~10 min to apply.
 
-**Notes:**
-- You can launch with 3 coats of 2000E + Aquaguard
-- A fourth coat provides extra barrier protection but is not mandatory
-- If you skip this, you still have time for Aquaguard after returning April 17
+### Morning Window: 8:00–11:00am
 
----
+| Time | Task | Wait |
+|---|---|---|
+| 8:00am | Sand Watertite flush at each blister + rudder holes — 80 then 120 grit. Wipe with solvent. Takes ~20 min total. | 20 min |
+| 8:20am | **Interprotect 2000E — Coat 1.** Rudder (both sides) + each blister spot. ~10 min. | 2 hrs from 8:20am |
+| 10:20am | **Interprotect 2000E — Coat 2.** ~10 min. | Done by 10:30am — well before 11am ✓ |
+| 11:00am | Leave. Coat 2 curing. 30 min to spare. | — |
 
-### Day 6+ – Aquaguard Topcoat (April 17–24, after you return)
+### Midday Gap: 11:00am–4:00pm
+Coat 2 curing undisturbed. 5-hour gap is well within the 72-hour recoat window. Nothing to do.
 
-**Duration:** 2–4 hours total | **Final cure:** 12–24 hours before launch
+### Evening Window: 4:00–7:00pm
 
-**Path A: If last 2000E coat is still tacky (within overcoat window)**
-1. Ensure coat passes Thumb-Print Test
-2. Apply **first coat of Aquaguard**
-3. Allow 4–9 hours, then apply second coat while tacky
-4. Full cure: 12–24 hours at 10–15°C
-
-**Path B: If last 2000E coat has fully hardened**
-1. Lightly sand with 80–120 grit
-2. Wipe clean
-3. Apply **Aquaguard coat #1**, then coat #2 normally
-4. Full cure: 12–24 hours before launch
+| Time | Task | Wait |
+|---|---|---|
+| 4:00pm | **Interprotect 2000E — Coat 3.** 5.5 hrs after coat 2 ✓ ~10 min to apply. | 2 hrs |
+| 6:00pm | **Interprotect 2000E — Coat 4 — final barrier coat.** ~10 min to apply. | Done ~6:10pm |
+| 6:10pm | All 4 coats complete. **72-hour antifouling window opens now.** Antifouling must be applied by April 20, 6:10pm. | — |
 
 ---
 
-## Thumb-Print Test Guide
+## APRIL 18 — Antifouling
+**Forecast: 16°C | 82% humidity | 1.1mm patchy rain — work morning only, beat the rain**
+**Last Interprotect coat ~6:10pm April 17 → antifouling from 8:30am April 18 ✓ (14 hrs later)**
+**Tool: 9" roller (3/8" foam nap) + 1" brush for edges**
 
-The **Thumb-Print Test** is your primary tool for deciding when to apply the next coat. Temperature and humidity make clocks unreliable; this test adapts.
+| Time | Task | Wait |
+|---|---|---|
+| 8:30am | Check sky — if actively raining, stand down and reschedule to April 20. | — |
+| 9:00am | Light scuff Interprotect spots with 220 scotch pad. Wipe clean. Do NOT sand through to glass. Stir Aquaguard gently — do not shake. | 30 min |
+| 9:30am | Brush waterline edge (1" brush, ~2" band). Brush around keel/hull junction and rudder post. | 10 min |
+| 9:40am | **Antifouling — Coat 1.** Roll flat bottom in vertical W-pattern strips, keel to waterline. Maintain wet edge. Do not re-roll tacky sections. | 2.5–3 hrs at 16°C |
+| 12:10pm | Check surface — dry to touch, not tacky. **Antifouling — Coat 2.** Same order: brush edges first, then roll in same direction as coat 1. | Done |
+| 1:00pm | **HULL FULLY PAINTED.** 7 days before launch. | — |
 
-### How to Perform
+### 9" Roller Technique
 
-1. **Gently press your thumb** into an inconspicuous spot on the last-applied coat
-2. **Lift your thumb slowly**:
-   - **Still wet / no impression:** Too early—wait 30–60 minutes
-   - **Tacky / thumb leaves slight indentation but no finger drag:** **Perfect overcoat window** ✅ *Apply next coat now*
-   - **Hard / no indentation, feels like plastic:** Too late—sand and reapply
+**Setup**
+- Use a roller grid in a bucket — not a paint tray. Better loading control, less waste.
+- Load until uniformly coated, roll off excess on grid. Roller must not drip.
 
-### When to Use
+**Application pattern — vertical strips, keel to waterline**
+```
+         waterline
+  ← 9" strip →
+  W-pattern apply → roll out parallel → next strip (overlap 2–3")
+        keel
+```
+- Apply W or M pattern across a 2–3ft wide section, roll out immediately
+- Overlap 2–3" into previous wet strip — never let the edge dry before connecting
+- Roll in one direction only per coat — cross-rolling doubles paint consumption
 
-- Between Day 1 and Day 2 (105/205 to 2000E)
-- Between Day 2 phases (2000E to Watertite)
-- Between each 2000E coat
-- Before applying Aquaguard
+**Hull sections**
 
----
+| Area | Tool |
+|---|---|
+| Flat bottom | 9" roller — full strokes |
+| Curved bilge | 9" roller angled — use roller edge |
+| Waterline edge | 1" brush first, feather in with roller |
+| Around keel fillet | 1" brush only — roller can't reach |
+| Rudder | 1" brush or cut-in with roller edge |
 
-## Contingency & Troubleshooting
+**Coverage tips — stretch the 1 gallon**
+- Thin, even coats — two thin coats cover more area and perform better than one thick coat
+- Do not go back over sections that have started to set — water-based paint pulls up when re-rolled
+- If paint thickens mid-job, add a few drops of water and stir gently
+- Do not shake the can — stir only, avoid bubbles
 
-### What if temperatures drop below 5°C?
-
-- **Delay work** until temps rise or move indoors if possible
-- Coats will harden very slowly; overcoat windows expand to 24+ hours
-- Do not rush—poor adhesion from cold is worse than a schedule delay
-
-### What if I miss the overcoat window?
-
-- **Not a problem.** Sand the hardened coat lightly (80–120 grit) and wipe clean
-- The next coat will adhere fine; you just lose the slight adhesion advantage of tacky-to-tacky
-- Schedule flexibility increases significantly once coats fully harden
-
-### What if I need to pause mid-schedule?
-
-- **Fully hardened coats are stable for weeks/months** as long as you sand before the next coat
-- If you miss a day, simply resume; the system is forgiving
-- Do not apply coats in rain or high humidity (>85% RH)
-
-### What if blisters reappear after repair?
-
-- Indicates incomplete ventilation or osmotic pressure buildup
-- This repair system is **preventative**, not a permanent deep fix for systemic moisture
-- Long-term: consider ventilation improvements or haul-out storage
-
-### Can I apply fewer coats?
-
-- **Minimum system:** 3 coats Interlux 2000E + 2 coats Aquaguard
-- More coats = longer-lasting protection (5 coats 2000E is ideal)
-- Fewer coats accelerates future touch-up maintenance
+> **If rain develops before Coat 2 is dry on April 18:** Hold Coat 2 for April 20.
+> April 20 forecast: 11°C, 0mm rain, 64% humidity.
+> Apply mid-afternoon (1:00pm) when hull surface is warmest.
 
 ---
 
-## References
+## APRIL 23–24 — Optional Wet Coat (Recommended)
+*Check forecast closer to date*
 
-### Epoxy & Resin
-- [West System 105/205 Epoxy Resin & Fast Hardener](https://www.westsystem.com/app/uploads/2022/12/105-205-Epoxy-Resin.pdf) (PDF)
-- [West System Canada - Supplier](https://ardec.ca/en/p/1072/105-epoxy-resin-205-fast-hardener-kit)
-
-### Interlux 2000E (InterProtect®)
-- [Interprotect 2000E - TDS](https://www.bottompaintstore.com/images/File/Interlux/TDS_Interprotect_2000E.pdf) (PDF)
-- [Interprotect 2000E - J109 Spec](https://j109.org/docs/interprotect-2000e.pdf) (PDF)
-- [Interprotect Guide](https://www.lewismarine.com/datasheets/interprotect-guide.pdf) (PDF)
-- [Interlux - How to Fix Blisters on Fiberglass Hulls](https://www.interlux.com/ca/en/boat-painting-help/expert-advice/how-do-you-fix-blisters-fiberglass-hull)
-
-### Watertite Epoxy Filler
-- [Watertite - Specialty Coatings Brand Portal (2010)](https://specialtycoatings.brand.akzonobel.com/m/096e6a5405d01b0e/original/Watertite_eng_A4_20100608.pdf) (PDF)
-- [Watertite - Specialty Coatings Brand Portal (2023)](https://specialtycoatings.brand.akzonobel.com/m/19c53b7664d6577a/original/Watertite_eng_A4_20230309.pdf) (PDF)
+If conditions allow (above 10°C, no rain, humidity < 85%):
+- Apply a thin **3rd antifouling coat** within 24–48 hours of launch
+- Maximises biocide activation and first-season performance
+- Not mandatory — two coats from April 18 are sufficient
 
 ---
 
-**Last updated:** April 9, 2026 | **Schedule Status:** Ready for April 9 start
+## APRIL 25 — Launch
+- Minimum 2 hours after last antifouling coat before hull enters water
+- With April 18 coats, 7 days dry — no issue
+- Quick yard inspection before splash: check waterline coverage, no missed spots near keel/rudder
+
+---
+
+## Timing Reference Card
+
+| Transition | Minimum wait | Maximum wait | Notes |
+|---|---|---|---|
+| 105/205 → Watertite | 3.5–4 hrs (cool morning) | 8 hrs | Apply in green stage — firm but slightly tacky |
+| Watertite → sanding | 16 hrs | No limit | Rock hard after 4 days |
+| Interprotect coat → coat | 2 hrs | 72 hrs | Miss 72 hrs = must sand before next coat |
+| Last Interprotect → Antifouling | 2 hrs | 72 hrs | Sand lightly if > 72 hrs |
+| Last Antifouling → launch | 2 hrs | No limit | Last coat ideally within 48 hrs of splash |
+
+---
+
+## Fallback if April 18 is Rained Out
+
+| Date | Task | Conditions |
+|---|---|---|
+| April 20 | Antifouling coats 1 & 2 (1:00pm + 4:30pm) | 11°C, 0mm, 64% humidity — borderline but viable |
+| April 23–24 | Optional 3rd coat | Check forecast |
+| April 25 | Launch | — |
+
+> April 20 at 11°C is the hard minimum for antifouling. Apply mid-afternoon when hull surface temperature peaks. A south-facing hull in direct sun can reach 13–14°C even when air is 11°C.
